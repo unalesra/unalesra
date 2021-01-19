@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align="center" src="https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276" /> </br>
 
-<!--
-**unalesra/unalesra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Esra 👋
 
-Here are some ideas to get you started:
+‍🛠💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+		Java
+		C#
+		C++
+		C
+		
+🤓 I'm currently learning:
+
+		Asp.Net Core
+
+🤔 I want to learn:
+
+		Javascript
+		Hibernate
+		SpringBoot
+
+📫 How to reach me:</br></br>
+		E-Mail: unaal.esra@gmail.com </br>
+		Medium: https://medium.com/@esraunal </br>
+		Linkedin: https://www.linkedin.com/in/esra-unal </br>
+		
