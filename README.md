@@ -12,10 +12,10 @@
 🤓 I'm currently learning:
 
 		Asp.Net Core
+		JavaScript
 
 🤔 I want to learn:
 
-		Javascript
 		Hibernate
 		SpringBoot
 
